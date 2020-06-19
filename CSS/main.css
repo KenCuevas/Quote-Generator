@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    display: block;
+    margin: 8px;
+}
+
+.Display{
+    display: flexbox;
+    color: black;
+    background-color: white;
+    margin: 170px;
+    padding: 10px;
+    border: 10px black;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+}
+
+#Display-Quote{
+    justify-content: center;
+    text-align: center;
+}
+
+#Quote-btn{
+display: block;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;
+}
